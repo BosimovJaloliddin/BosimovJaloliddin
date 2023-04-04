@@ -21,7 +21,7 @@
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BosimovJaloliddin">
    
    <h2> GitHub Statistics:</h2>
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BosimovJaloliddin">
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BosimovJaloliddin" text-align="center">
 
     <h2> Codewars Statistics:</h2>
    <img src="https://github.r2v.ch/codewars?user=JaloliddinQosimov&stroke=%23BB432C">
