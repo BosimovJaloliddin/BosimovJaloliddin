@@ -7,7 +7,7 @@
  </p>
  
  <h3>In the social network:</h3>
- <img https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 <h3>💻The programming languages I know:</h3>
 <code><img src="https://img.freepik.com/free-icon/html-5_318-674234.jpg?w=360" width="35px"></code>
