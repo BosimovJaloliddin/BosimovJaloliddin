@@ -1,4 +1,4 @@
-### Hi there, I'm Jaloliddin 👋
+<h1> Hi there, I'm Jaloliddin 👋 </h1>
 
 <hr>
 <h2>📢 Welcome to my profile</h2>
