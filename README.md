@@ -18,4 +18,4 @@
 <code><img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="35px"></code>
 
    <h2> GitHub Statistics:</h2>
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BosimovJaloliddin">
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BosimovJaloliddin&theme=dark">
