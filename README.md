@@ -22,3 +22,6 @@
    
    <h2> GitHub Statistics:</h2>
    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BosimovJaloliddin">
+
+    <h2> Codewars Statistics:</h2>
+   ![Codewars](https://github.r2v.ch/codewars?user=JaloliddinQosimov&stroke=%23BB432C)
