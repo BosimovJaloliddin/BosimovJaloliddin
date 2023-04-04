@@ -24,4 +24,4 @@
  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BosimovJaloliddin" width="600px">
 
  <h2>CodeWars Statisticas:</h2>
- <img src="https://github.r2v.ch/codewars?user=JaloliddinQosimov&stroke=%23BB432C" width="500px">
+ <img src="https://github.r2v.ch/codewars?user=JaloliddinQosimov&stroke=%23BB432C" width="540px">
