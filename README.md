@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Jaloliddin 👋 </h1>
+<h1> Hi there, I'm Jaloliddin <img src="https://media.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif"> </h1>
 
 <hr>
 <h2>📢 Welcome to my profile</h2>
