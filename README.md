@@ -20,12 +20,12 @@
  <h2> My Github Profile Summary Card:</h2>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BosimovJaloliddin">
    
-  <div display="inline-block">
+  <div width="50%>
    <h2> GitHub Statistics:</h2>
    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BosimovJaloliddin" >
    </div>
     
-<div display="inline-block">
+<div width="50%">
    <h2>Codewars Statisticas:</h2>
    <img src="https://github.r2v.ch/codewars?user=JaloliddinQosimov&stroke=%23BB432C">
  </div>
