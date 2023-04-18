@@ -16,6 +16,7 @@
 <code><img src="https://img.freepik.com/free-icon/html-5_318-674234.jpg?w=360" width="35px"></code>
 <code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" width="35px"></code>
 <code><img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="35px"></code>
+<code><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="35px"></code>
 
 <h2> My Github Profile Summary Card:</h2>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BosimovJaloliddin">
