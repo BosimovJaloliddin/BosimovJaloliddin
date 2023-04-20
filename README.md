@@ -34,11 +34,10 @@
     <div style="display:flex; gap:40px;">
         <div>
             <h2> GitHub Statistics: </h2>
-            <img width="100%"
-                src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BosimovJaloliddin">
+            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BosimovJaloliddin">
         </div>
         <div>
             <h2> Codewars Statisticas:</h2>
-            <img width="100%" src="https://github.r2v.ch/codewars?user=JaloliddinQosimov&stroke=%23BB432C">
+            <img src="https://github.r2v.ch/codewars?user=JaloliddinQosimov&stroke=%23BB432C">
         </div>
     </div>
