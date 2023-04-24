@@ -3,9 +3,7 @@ src="https://camo.githubusercontent.com/927c8a934a3b879b16d3e6984540995ee77a5ddb
     <hr>
     <h2>📢 Welcome to my profile</h2>
     <p>
-        I am very interested in programming. Currently, I have been working regularly in the frontend direction for a
-        long
-        time. You can tell by the statistics below that are growing.
+        I am very interested in programming. I am currently learning frontend programming regularly.
     </p>
     <h3>In the social network:</h3>
     <a href="https://www.linkedin.com/feed/"> <img
