@@ -3,7 +3,7 @@ src="https://camo.githubusercontent.com/927c8a934a3b879b16d3e6984540995ee77a5ddb
     <hr>
     <h2>📢 Welcome to my profile</h2>
     <p>
-        I am very interested in programming. I am currently learning frontend programming regularly. <br><img   src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="80" height="80" >
+        I am very interested in programming. I am currently learning frontend programming regularly. <br><img   src="[https://giphy.com/embed/VTtANKl0beDFQRLDTh](https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh)" width="80" height="80" >
     </p>
     <h3>In the social network:</h3>
     <a href="https://www.linkedin.com/feed/"> <img
