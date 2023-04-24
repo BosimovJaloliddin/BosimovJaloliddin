@@ -3,8 +3,9 @@ src="https://camo.githubusercontent.com/927c8a934a3b879b16d3e6984540995ee77a5ddb
     <hr>
     <h2>📢 Welcome to my profile</h2>
     <p>
-        I am very interested in programming. I am currently learning frontend programming regularly. <br>
-    <iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
+        I am very interested in programming. I am currently learning frontend programming regularly. <br> <img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47h8o4kx8ziznsgvw17r5u8jeu2g3axcz27ftvhejh&rid=giphy.gif&ct=g">
+    
+    
     </p>
     <h3>In the social network:</h3>
     <a href="https://www.linkedin.com/feed/"> <img
