@@ -23,9 +23,7 @@ src="https://camo.githubusercontent.com/927c8a934a3b879b16d3e6984540995ee77a5ddb
     <code><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="35px"></code>
     <h2> My Github Profile Summary Card:</h2>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BosimovJaloliddin">
-    <h2> GitHub Statistics: </h2>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BosimovJaloliddin">
-    <pre> Codewars Statisticas:                      GitHub Statistics:</pre>
+    <h2> GitHub Statistics and  Codewars Statisticas: </h2>
     <div >
     <img src="https://github.r2v.ch/codewars?user=JaloliddinQosimov&stroke=%23BB432C" width="48%">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BosimovJaloliddin" width="48%">
