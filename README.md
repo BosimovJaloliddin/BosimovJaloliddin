@@ -17,7 +17,7 @@ src="https://camo.githubusercontent.com/927c8a934a3b879b16d3e6984540995ee77a5ddb
             src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
     </a>
     <h3>💻The programming languages I know:</h3>
-    <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="35px"></code>
+    <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="55px" height="30px"></code>
     <code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" width="35px"></code>
     <code><img src="https://w7.pngwing.com/pngs/718/753/png-transparent-bootstrap-css3-node-js-logo-github-purple-violet-rectangle-thumbnail.png" width="35px"></code>
     <code><img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="35px"></code>
