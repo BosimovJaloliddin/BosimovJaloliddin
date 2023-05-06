@@ -17,10 +17,11 @@ src="https://camo.githubusercontent.com/927c8a934a3b879b16d3e6984540995ee77a5ddb
             src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
     </a>
     <h3>💻The programming languages I know:</h3>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80px" height="30px">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="80px" height="30px">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="80px" height="30px">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="80px" height="30px">
+    <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80px" height="30px"></code>
+    <code><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="120px" height="30px"></code>
+    <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="80px" height="30px"></code>
+    <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="120px" height="30px"></code>
+    <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="80px" height="30px"></code>
     <h2> My Github Profile Summary Card:</h2>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BosimovJaloliddin">
     <h2> GitHub Statistics and  Codewars Statisticas: </h2>
