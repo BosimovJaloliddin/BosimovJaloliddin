@@ -16,6 +16,9 @@ src="https://camo.githubusercontent.com/927c8a934a3b879b16d3e6984540995ee77a5ddb
     <a href="https://www.codewars.com/dashboard"> <img
             src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
     </a>
+    <a href="https://app.netlify.com/teams/bosimovjaloliddin/overview"> <img
+            src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    </a>
     <h3>💻The programming languages I know:</h3>
     <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80px" height="30px"></code>
     <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="80px" height="30px"></code>
