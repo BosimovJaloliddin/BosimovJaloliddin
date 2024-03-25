@@ -1,5 +1,4 @@
-<h1> Hi there, I'm Jaloliddin <img
-src="https://camo.githubusercontent.com/927c8a934a3b879b16d3e6984540995ee77a5ddb406f9f4424ca26cc3c6f1577/68747470733a2f2f6d656469612e74656e6f722e636f6d2f795753526d796d6275426b414141414d2f776176696e672d68692e676966"  width="40px"> </h1>
+<h1> Hi there, I'm Jaloliddin</h1>
     <hr>
     <h2>📢 Welcome to my profile</h2>
 <!--     <p>
