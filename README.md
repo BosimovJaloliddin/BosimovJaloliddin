@@ -12,7 +12,7 @@
     <a href="https://www.instagram.com/jaloliddin_bosimov">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://www.codewars.com/dashboard"> <img
+    <a href="https://www.codewars.com/users/JaloliddinQosimov"> <img
             src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
     </a>
     <a href="https://app.netlify.com/teams/bosimovjaloliddin/overview"> <img
