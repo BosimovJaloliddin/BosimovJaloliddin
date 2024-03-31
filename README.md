@@ -34,6 +34,7 @@
     <h2> GitHub Statistics and  Codewars Statisticas: </h2>
     <div >
     <img src="https://github.r2v.ch/codewars?user=JaloliddinQosimov&stroke=%23BB432C" width="52%" height="240px">
+    <img src="https://leetcode.com/Jaloliddin_Bosimov/" width="52%" height="240px">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BosimovJaloliddin" width="46%" height="240px">
     </div>
     
